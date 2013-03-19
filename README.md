@@ -1,7 +1,7 @@
 Instant Execute
 =========================
 
-Sublime Text package that is executing selected region as a Python program
+Sublime Text package, that is executing selected code as a Python program and changes selected region for program output
 
 ## How to install
 
@@ -15,9 +15,9 @@ Using [Package Control](http://wbond.net/sublime_packages/package_control):
 
 ## How to use it
 
-Just select region and press __Shift+Ctrl+X__
+Just select Python code and press __Shift+Ctrl+X__ (default shortcut)
 
-Could be use for fast evaluation of some part of code
+This could be used for fast evaluation of some code parts
 
 --------------
 
